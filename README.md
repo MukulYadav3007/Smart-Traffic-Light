@@ -8,4 +8,4 @@ Aims to enhance traffic management and minimize wait times.
 
 
 **Testing & Real-World Validation:**
-The model has been tested on real-time traffic data collected from NH 8, ensuring its effectiveness in real-world conditions. The results demonstrate improved traffic flow management by adapting signal timings based on observed vehicle density.
+The model has been tested on real-time traffic data collected from **NH 8**, ensuring its effectiveness in real-world conditions. The results demonstrate improved traffic flow management by adapting signal timings based on observed vehicle density.
